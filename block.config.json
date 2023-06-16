@@ -1,0 +1,21 @@
+{
+  "name": "testsafal",
+  "type": "package",
+  "blockId": "6VqVcIGdTgfURS62hgCUl",
+  "source": {
+    "https": "https://github.com/uttahb/testsafal.git",
+    "ssh": "git@github.com:uttahb/testsafal.git",
+    "branch": "block_testsafal"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "ttfn": {
+      "directory": "ttfn"
+    }
+  }
+}
