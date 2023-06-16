@@ -3,8 +3,8 @@
   "name": "ttfn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/testsafal.git",
+    "ssh": "git@github.com:uttahb/testsafal.git",
     "branch": "block_ttfn"
   },
   "parentBlockIDs": [
