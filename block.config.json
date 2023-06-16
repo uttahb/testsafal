@@ -1,0 +1,21 @@
+{
+  "name": "testsafal",
+  "type": "package",
+  "blockId": "6VqVcIGdTgfURS62hgCUl",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testsafal"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "ttfn": {
+      "directory": "ttfn"
+    }
+  }
+}

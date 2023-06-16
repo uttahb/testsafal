@@ -1,0 +1,20 @@
+{
+  "blockId": "iscXwiL2lYvXGS5kpCulJ",
+  "name": "ttfn",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_ttfn"
+  },
+  "parentBlockIDs": [
+    "6VqVcIGdTgfURS62hgCUl"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
